@@ -1,4 +1,10 @@
 [[redirects]]
+    from = "/web-data"
+    to = "http://31.129.42.95:8000/web-data"
+    status = 200
+
+[[redirects]]
     from = "/*"
     to = "/index.html"
     status = 200
+
